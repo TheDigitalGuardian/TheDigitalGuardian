@@ -27,7 +27,8 @@ Because cybersecurity isn’t just protection.
 
 ### 📂 Featured Repositories
 
-- [`grc-policy-portfolio`](https://github.com/yourusername/grc-policy-portfolio)    
+- [`grc-policy-portfolio`](https://github.com/TheDigitalGuardian/grc-policy-portfolio)
+- [`third-party-risk-management]https://github.com/TheDigitalGuardian/third-party-risk-management
 - [AI Governance Reflections – coming soon]
 
 ---
